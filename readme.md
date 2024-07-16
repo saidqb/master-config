@@ -3,11 +3,14 @@
 for working together
 
 
+## Description
+
+
 ## List
 
 - [master config](#master-config)
+- [Description](#description)
 - [List](#list)
-- [About Laravel](#about-laravel)
 - [Learning](#learning)
   - [example](#example)
 - [Sponsors](#sponsors)
@@ -19,9 +22,9 @@ for working together
 
 [Llist]
 
-## About Laravel
 
 ## Learning
+
 ### example
 
 
@@ -43,7 +46,7 @@ Thank you for considering contributing to the my package! The contribution guide
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [example@a.i](mailto:example@a.i). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability, please send an e-mail to <my name> via [example@a.i](mailto:example@a.i). All security vulnerabilities will be promptly addressed.
 
 ## License
 
